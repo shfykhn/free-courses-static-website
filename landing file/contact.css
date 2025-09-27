@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(135deg, #88e671b9, #000000);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.custom-card {
+    background-color: #a30000;
+    border: none;
+    border-radius: 15px;
+}
+
+/* Button Styling */
+.custom-btn {
+    background-color: #005fc4;
+    color: rgb(0, 0, 0);
+    padding: 10px 30px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border: none;
+    border-radius: 50px;
+}
+
+.custom-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
